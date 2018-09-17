@@ -9,3 +9,5 @@ spring:
     name: product
 server:
   port: 8082
+env: 
+  dev
